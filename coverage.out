@@ -1,0 +1,8 @@
+mode: set
+github.com/wafuwafu13/codecov-playground/calculator.go:3.32,5.2 1 1
+github.com/wafuwafu13/codecov-playground/calculator.go:7.37,9.2 1 1
+github.com/wafuwafu13/codecov-playground/calculator.go:11.37,13.2 1 1
+github.com/wafuwafu13/codecov-playground/calculator.go:15.35,16.12 1 1
+github.com/wafuwafu13/codecov-playground/calculator.go:16.12,18.3 1 1
+github.com/wafuwafu13/codecov-playground/calculator.go:19.2,19.14 1 1
+github.com/wafuwafu13/codecov-playground/main.go:5.13,23.2 13 0
